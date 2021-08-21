@@ -1,0 +1,280 @@
+
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,blockquote{margin:0;padding:0;}
+body{font-family:"Microsoft YaHei",Helvetica,Georgia,Arial,sans-serif; overflow-x:hidden;}
+h1,h2,h3,h4,h5,h6{font-weight:normal;font-size:100%;}
+address, caption, cite, code, dfn, em, _em, th, var, optgroup{font-style:inherit;}
+a:link{text-decoration:none;}
+a:visited{text-decoration:none;}
+a:hover{text-decoration:none;}
+a:actived{text-decoration:none;}
+img{vertical-align:top;border:none; }
+ol,ul,li{list-style:none;}
+li{float:left;}
+table{border-collapse:collapse; }
+.clearit{clear:both;*display:inline;}
+
+i,em{font-style:normal;}
+
+iframe { border: 0; padding: 0; margin: 0; }
+
+
+#one,#one1{
+	position: relative;
+    right: -70px;
+}
+#tow1,#tow2,#tow3{
+	position: relative;
+    right: -70px;
+}
+
+#tow,#tow1,#tow2,#tow3{
+position: relative;
+top:15px;
+}
+
+
+#curFrame{width:1920px;height:917px; position:absolute;top:93px;left:50%; margin-left:-960px; z-index:6;}
+.frame{width:1920px;height:917px; position:relative;}
+
+.top{width:1920px;height:133px; position:absolute;top:0;left:50%; margin-left:-960px; z-index:999;}
+.nav{width:1000px;height:90px;margin:0 auto;position:relative;}
+.nav_b1{width:192px;height:84px; float:left;}
+.nav_b1 a{width:192px;height:84px; line-height:84px; float:left;background:url(http://static.sdg-china.com/cq/pic/web4/guide/g_navBtn2.jpg) left -10px no-repeat; position:relative;}
+.nav_b1 a span{width:137px;height:26px; line-height:26px; float:left; font-size:20px; font-weight:bold; text-align:center; color:#d5c6a3; margin-top:16px; padding-left:55px;}
+.nav_b1 a i{width:84px;height:84px; position:absolute;left:0;top:0; z-index:2;background:url(http://static.sdg-china.com/cq/pic/web4/guide/g_p1.png) center center no-repeat;}
+.nav_b1 a:hover{background:url(http://static.sdg-china.com/cq/pic/web4/guide/g_navBtnC.jpg) left top no-repeat;}
+.nav_b1 a:hover span{color:#d9ae51;}
+.nav_b1 a:hover i{background:url(http://static.sdg-china.com/cq/pic/web4/guide/g_p1C.png) center center no-repeat;}
+
+.nav_b2{width:192px;height:84px; float:left;}
+.nav_b2 a{width:192px;height:84px; line-height:84px; float:left;background:url(http://static.sdg-china.com/cq/pic/web4/guide/g_navBtn2.jpg) left -10px no-repeat; position:relative;}
+.nav_b2 a:hover{background:url(http://static.sdg-china.com/cq/pic/web4/guide/g_navBtnC.jpg) left top no-repeat;}
+.nav_b2 a span{width:192px;height:26px; line-height:26px; float:left; font-size:24px; font-weight:bold; text-align:center; color:#d5c6a3; margin-top:16px;}
+.nav_b2 a em{width:192px;height:20px; line-height:20px; float:left; font-size:12px;text-align:center; color:#af9466; margin-top:5px;}
+.nav_b2 a:hover span{color:#d9ae51;}
+
+
+.nav_b3{width:262px;height:133px; float:left; position:absolute;left:369px;top:0; z-index:5;}
+.nav_b3 a{width:262px;height:133px; float:left; background:url(http://static.sdg-china.com/cq/pic/web4/guide/g_b1.png) left top no-repeat;}
+.nav_b3 a:hover{background:url(http://static.sdg-china.com/cq/pic/web4/guide/g_b1C.png) left top no-repeat;}
+
+.nav_b4{width:192px;height:84px; float:left;}
+.nav_b4 a{width:192px;height:84px; line-height:84px; float:left;background:url(http://static.sdg-china.com/cq/pic/web4/guide/g_navBtn2.jpg) right -10px no-repeat; position:relative;}
+.nav_b4 a:hover{background:url(http://static.sdg-china.com/cq/pic/web4/guide/g_navBtn2C.jpg) left top no-repeat;}
+.nav_b4 a span{width:192px;height:26px; line-height:26px; float:left; font-size:24px; font-weight:bold; text-align:center; color:#d5c6a3; margin-top:16px;}
+.nav_b4 a em{width:192px;height:20px; line-height:20px; float:left; font-size:12px;text-align:center; color:#af9466; margin-top:5px;}
+.nav_b4 a:hover span{color:#d9ae51;}
+
+.nav_b5{width:192px;height:84px; float:left;}
+.nav_b5 a{width:192px;height:84px; line-height:84px; float:left;background:url(http://static.sdg-china.com/cq/pic/web4/guide/g_navBtn2.jpg) right -10px no-repeat; position:relative;}
+.nav_b5 a span{width:142px;height:26px; line-height:26px; float:left; font-size:20px; font-weight:bold; text-align:center; color:#d5c6a3; margin-top:16px; padding-left:50px;}
+.nav_b5 a i{width:84px;height:84px; position:absolute;left:0;top:0; z-index:2;background:url(http://static.sdg-china.com/cq/pic/web4/guide/g_p2.png) center center no-repeat;}
+.nav_b5 a:hover{background:url(http://static.sdg-china.com/cq/pic/web4/guide/g_navBtn2C.jpg) left top no-repeat;}
+.nav_b5 a:hover span{color:#d9ae51;}
+.nav_b5 a:hover i{background:url(http://static.sdg-china.com/cq/pic/web4/guide/g_p2C.png) center center no-repeat;}
+
+.m1{ margin-left:9px;}
+.m2{ margin-left:213px;}
+
+.g_fl{width:264px;height:740px;position:absolute;left:30px;top:-833px; z-index:100;background:url(http://static.sdg-china.com/cq/pic/web4/guide/g_flBg_0725.png) left top no-repeat; transition:all ease-in 1s; -ms-transition:all ease-in 1s; -moz-transition:all ease-in 1s; -webkit-transition:all ease-in 1s;}
+.fl_btn1{width:264px;height:107px; float:left; margin-top:18px;}
+.fl_btn1 a{width:264px;height:107px; float:left;}
+.fl_btn1 a:hover{background:url(http://static.sdg-china.com/cq/pic/web4/guide/fl_btn1C_0725.png) left top no-repeat;}
+.fl_btn2{width:264px;height:107px; float:left;}
+.fl_btn2 a{width:264px;height:107px; float:left;}
+.fl_btn2 a:hover{background:url(http://static.sdg-china.com/cq/pic/web4/guide/fl_btn2C_0725.png) left top no-repeat;}
+.fl_btn3{width:264px;height:107px; float:left;}
+.fl_btn3 a{width:264px;height:107px; float:left;}
+.fl_btn3 a:hover{background:url(http://static.sdg-china.com/cq/pic/web4/guide/fl_btn3C_0725.png) left top no-repeat;}
+.fl_btn4{width:264px;height:107px; float:left;}
+.fl_btn4 a{width:264px;height:107px; float:left;}
+.fl_btn4 a:hover{background:url(http://static.sdg-china.com/cq/pic/web4/guide/fl_btn4C_0725.png) left top no-repeat;}
+.fl_closeBtn{width:264px;height:107px; float:left;}
+.fl_closeBtn a{width:264px;height:107px; float:left;}
+
+.g_fr{width:144px;height:423px; position:fixed;right:20px;top:1010px; z-index:9999;background:url(http://static.sdg-china.com/cq/pic/web4/guide/g_frBg927.png) right top no-repeat;}
+.g_sina{width:28px;height:28px;float:left; margin:187px 0 0 35px;}
+.g_qq{width:28px;height:28px;float:left; margin:187px 0 0 20px;}
+.g_backTop{width:144px;height:50px;float:left;}
+
+.wrap{width:100%; height:auto; overflow:hidden; position:relative;min-width: 1280px}
+.bnContent{width:100%;height:1010px; position:relative; z-index:99; overflow:hidden;}
+.fr{width:208px;height:631px; position:absolute;right:10px;top:0;}
+.fr_top{width:208px;height:160px; position:absolute;left:0;top:0; z-index:3;background:url(http://static.sdg-china.com/cq/pic/act/2016/web/0813guide/q_120172.png) center top no-repeat;}
+.fr_closeBtn{width:208px;height:65px; float:left;}
+.fr_guideBtn{width:208px;height:95px; float:left;}
+.fr_bm{width:188px;height:429px; position:absolute;left:10px;top:-500px;z-index:2;background:url(http://static.sdg-china.com/cq/pic/act/2016/web/0813guide/q_3aa2017.png) center top no-repeat; transition:all ease-in 1s; -ms-transition:all ease-in 1s; -moz-transition:all ease-in 1s; -webkit-transition:all ease-in 1s;}
+.fr_btn1{width:188px;height:82px; float:left; margin-top:35px;}
+.fr_btn2{width:188px;height:82px; float:left; margin-top:21px;}
+.fr_btn3{width:188px;height:82px; float:left; margin-top:21px;}
+.fr_btn4{width:188px;height:76px; float:left; margin-top:21px;}
+.fr_goTop{width:188px;height:76px; float:left;}
+
+.wrapper{width:1280px;height:1010px;margin:0 auto;}
+.w_top{width:1280px;height:1010px;float:left; position:relative;}
+.logo{width:255px;height:101px; position:absolute;top:18px;left:0;}
+.logo a{width:255px;height:101px; float:left;}
+.logo a img{width:255px;}
+.nav{width:789px;height:65px; margin:758px auto 0 auto;}
+.navBtn0{width:186px;height:65px; float:left;margin: 0 5px}
+.navBtn0 a{width:186px;height:65px; float:left;background:url(http://static.sdg-china.com/cq/pic/web4/guide/guide1.png?v=1) center top no-repeat;}
+
+.navBtn2{width:186px;height:65px; float:left;margin: 0 5px}
+.navBtn2 a{width:186px;height:65px; float:left;background:url(http://static.sdg-china.com/cq/pic/web4/guide/guide3.png) center top no-repeat;}
+.navBtn3{width:186px;height:65px; float:left;margin: 0 5px}
+.navBtn3 a{width:186px;height:65px; float:left;background:url(http://static.sdg-china.com/cq/pic/web4/guide/guide4.png) center top no-repeat;}
+.navBtn4{width:186px;height:65px; float:left;margin: 0 5px}
+.navBtn4 a{width:186px;height:65px; float:left;background:url(http://static.sdg-china.com/cq/pic/web4/guide/guide5.png) center top no-repeat;}
+.movBtn{width:92px;height:79px; position:absolute;left:150px;top:690px; z-index:9;background:url(http://static.sdg-china.com/cq/pic/act/2016/web/0813guide/movBtn.png) center top no-repeat;animation:x3 1.5s infinite;-ms-animation:x3 1.5s infinite;-webkit-animation:x3 1.5s infinite;-moz-animation:x3 1.5s infinite;-o-animation:x3 1.5s infinite;}
+.movBtn a{width:92px;height:79px; float:left;}
+@keyframes x3 { 
+0%,100%{transform:scale3d(1,1,1); -moz-transform:scale3d(1,1,1); -ms-transform:scale3d(1,1,1); -webkit-transform:scale3d(1,1,1); -o-transform:scale3d(1,1,1);}
+50%{transform:scale3d(0.9,0.9,1); -moz-transform:scale3d(0.9,0.9,1); -ms-transform:scale3d(0.9,0.9,1); -webkit-transform:scale3d(0.9,0.9,1); -o-transform:scale3d(0.9,0.9,1);}
+75%{transform:scale3d(1.1,1.1,1); -moz-transform:scale3d(1.1,1.1,1); -ms-transform:scale3d(1.1,1.1,1); -webkit-transform:scale3d(1.1,1.1,1); -o-transform:scale3d(1.1,1.1,1);}
+}
+@-webkit-keyframes x3 { 
+0%,100%{transform:scale3d(1,1,1); -moz-transform:scale3d(1,1,1); -ms-transform:scale3d(1,1,1); -webkit-transform:scale3d(1,1,1); -o-transform:scale3d(1,1,1);}
+50%{transform:scale3d(0.9,0.9,1); -moz-transform:scale3d(0.9,0.9,1); -ms-transform:scale3d(0.9,0.9,1); -webkit-transform:scale3d(0.9,0.9,1); -o-transform:scale3d(0.9,0.9,1);}
+75%{transform:scale3d(1.1,1.1,1); -moz-transform:scale3d(1.1,1.1,1); -ms-transform:scale3d(1.1,1.1,1); -webkit-transform:scale3d(1.1,1.1,1); -o-transform:scale3d(1.1,1.1,1);}
+}
+@-moz-keyframes x3 { 
+0%,100%{transform:scale3d(1,1,1); -moz-transform:scale3d(1,1,1); -ms-transform:scale3d(1,1,1); -webkit-transform:scale3d(1,1,1); -o-transform:scale3d(1,1,1);}
+50%{transform:scale3d(0.9,0.9,1); -moz-transform:scale3d(0.9,0.9,1); -ms-transform:scale3d(0.9,0.9,1); -webkit-transform:scale3d(0.9,0.9,1); -o-transform:scale3d(0.9,0.9,1);}
+75%{transform:scale3d(1.1,1.1,1); -moz-transform:scale3d(1.1,1.1,1); -ms-transform:scale3d(1.1,1.1,1); -webkit-transform:scale3d(1.1,1.1,1); -o-transform:scale3d(1.1,1.1,1);}
+}
+@-ms-keyframes x3 { 
+0%,100%{transform:scale3d(1,1,1); -moz-transform:scale3d(1,1,1); -ms-transform:scale3d(1,1,1); -webkit-transform:scale3d(1,1,1); -o-transform:scale3d(1,1,1);}
+50%{transform:scale3d(0.9,0.9,1); -moz-transform:scale3d(0.9,0.9,1); -ms-transform:scale3d(0.9,0.9,1); -webkit-transform:scale3d(0.9,0.9,1); -o-transform:scale3d(0.9,0.9,1);}
+75%{transform:scale3d(1.1,1.1,1); -moz-transform:scale3d(1.1,1.1,1); -ms-transform:scale3d(1.1,1.1,1); -webkit-transform:scale3d(1.1,1.1,1); -o-transform:scale3d(1.1,1.1,1);}
+}
+@-o-keyframes x3 { 
+0%,100%{transform:scale3d(1,1,1); -moz-transform:scale3d(1,1,1); -ms-transform:scale3d(1,1,1); -webkit-transform:scale3d(1,1,1); -o-transform:scale3d(1,1,1);}
+50%{transform:scale3d(0.9,0.9,1); -moz-transform:scale3d(0.9,0.9,1); -ms-transform:scale3d(0.9,0.9,1); -webkit-transform:scale3d(0.9,0.9,1); -o-transform:scale3d(0.9,0.9,1);}
+75%{transform:scale3d(1.1,1.1,1); -moz-transform:scale3d(1.1,1.1,1); -ms-transform:scale3d(1.1,1.1,1); -webkit-transform:scale3d(1.1,1.1,1); -o-transform:scale3d(1.1,1.1,1);}
+}
+.p1{width:450px;height:45px; position:absolute;left:260px;top:675px; z-index:5;}
+.slogan{width:335px;height:40px; position:absolute;left:260px;top:740px; z-index:5;}
+.p3{width:303px;height:550px;background:url(http://static.sdg-china.com/cq/pic/web4/guide/slogan0316.png) center top no-repeat; position:absolute; z-index:1;top: 147px;left: 136px}
+.zlp{width: 52px;height: 166px;background:url(http://static.sdg-china.com/cq/pic/web4/guide/cikeguide.png) center top no-repeat;position: absolute;top: 370px;left: 634px  }
+.date{ width: 75px;height: 330px;background: url(http://static.sdg-china.com/cq/pic/web4/guide/date0109.png);position: absolute;top: 283px;left: 440px}
+.mBtn{width:80px;height:80px; z-index:99;position: absolute;top: 175px;left: 440px}
+.mBtn a{width:80px;height:80px; float:left; background:url(http://static.sdg-china.com/cq/pic/web4/guide/mov0316.png?v=0316) left center no-repeat;animation:x2 1s infinite;-ms-animation:x2 1s infinite;-webkit-animation:x2 1s infinite;-moz-animation:x2 1s infinite;-o-animation:x2 1s infinite;}
+@keyframes x2 { 
+0%,100%{transform:scale3d(1,1,1); -moz-transform:scale3d(1,1,1); -ms-transform:scale3d(1,1,1); -webkit-transform:scale3d(1,1,1); -o-transform:scale3d(1,1,1);}
+50%{transform:scale3d(0.9,0.9,1); -moz-transform:scale3d(0.9,0.9,1); -ms-transform:scale3d(0.9,0.9,1); -webkit-transform:scale3d(0.9,0.9,1); -o-transform:scale3d(0.9,0.9,1);}
+75%{transform:scale3d(1.1,1.1,1); -moz-transform:scale3d(1.1,1.1,1); -ms-transform:scale3d(1.1,1.1,1); -webkit-transform:scale3d(1.1,1.1,1); -o-transform:scale3d(1.1,1.1,1);}
+}
+@-webkit-keyframes x2 { 
+0%,100%{transform:scale3d(1,1,1); -moz-transform:scale3d(1,1,1); -ms-transform:scale3d(1,1,1); -webkit-transform:scale3d(1,1,1); -o-transform:scale3d(1,1,1);}
+50%{transform:scale3d(0.9,0.9,1); -moz-transform:scale3d(0.9,0.9,1); -ms-transform:scale3d(0.9,0.9,1); -webkit-transform:scale3d(0.9,0.9,1); -o-transform:scale3d(0.9,0.9,1);}
+75%{transform:scale3d(1.1,1.1,1); -moz-transform:scale3d(1.1,1.1,1); -ms-transform:scale3d(1.1,1.1,1); -webkit-transform:scale3d(1.1,1.1,1); -o-transform:scale3d(1.1,1.1,1);}
+}
+@-moz-keyframes x2 { 
+0%,100%{transform:scale3d(1,1,1); -moz-transform:scale3d(1,1,1); -ms-transform:scale3d(1,1,1); -webkit-transform:scale3d(1,1,1); -o-transform:scale3d(1,1,1);}
+50%{transform:scale3d(0.9,0.9,1); -moz-transform:scale3d(0.9,0.9,1); -ms-transform:scale3d(0.9,0.9,1); -webkit-transform:scale3d(0.9,0.9,1); -o-transform:scale3d(0.9,0.9,1);}
+75%{transform:scale3d(1.1,1.1,1); -moz-transform:scale3d(1.1,1.1,1); -ms-transform:scale3d(1.1,1.1,1); -webkit-transform:scale3d(1.1,1.1,1); -o-transform:scale3d(1.1,1.1,1);}
+}
+@-ms-keyframes x2 { 
+0%,100%{transform:scale3d(1,1,1); -moz-transform:scale3d(1,1,1); -ms-transform:scale3d(1,1,1); -webkit-transform:scale3d(1,1,1); -o-transform:scale3d(1,1,1);}
+50%{transform:scale3d(0.9,0.9,1); -moz-transform:scale3d(0.9,0.9,1); -ms-transform:scale3d(0.9,0.9,1); -webkit-transform:scale3d(0.9,0.9,1); -o-transform:scale3d(0.9,0.9,1);}
+75%{transform:scale3d(1.1,1.1,1); -moz-transform:scale3d(1.1,1.1,1); -ms-transform:scale3d(1.1,1.1,1); -webkit-transform:scale3d(1.1,1.1,1); -o-transform:scale3d(1.1,1.1,1);}
+}
+@-o-keyframes x2 { 
+0%,100%{transform:scale3d(1,1,1); -moz-transform:scale3d(1,1,1); -ms-transform:scale3d(1,1,1); -webkit-transform:scale3d(1,1,1); -o-transform:scale3d(1,1,1);}
+50%{transform:scale3d(0.9,0.9,1); -moz-transform:scale3d(0.9,0.9,1); -ms-transform:scale3d(0.9,0.9,1); -webkit-transform:scale3d(0.9,0.9,1); -o-transform:scale3d(0.9,0.9,1);}
+75%{transform:scale3d(1.1,1.1,1); -moz-transform:scale3d(1.1,1.1,1); -ms-transform:scale3d(1.1,1.1,1); -webkit-transform:scale3d(1.1,1.1,1); -o-transform:scale3d(1.1,1.1,1);}
+}
+.topTxt{width:180px;line-height:24px; position:absolute;right:140px;bottom:20px; font-size:12px; color:#326e32; font-weight:bold;}
+
+
+.bnContent2{width:100%;height:1390px;min-width: 1280px; position:relative;background:url(http://static.sdg-china.com/cq/pic/web4/guide/g_bg2017_2.jpg) center top no-repeat #211108; z-index:30;}
+.main2{width:1280px;height:1390px; margin:0 auto; position:relative; z-index:90;}
+.w_main2{width:1280px;height:506px; margin:0 auto;}
+
+.jt{width:1280px;height:134px; float:left;text-align:center;}
+.jt a{width:116px;height:41px; margin-top:50px; cursor:default; display:inline-table;animation:x1 0.8s infinite;-webkit-animation:x1 0.8s infinite;-moz-animation:x1 0.8s infinite;-o-animation:x1 0.8s infinite;}
+.jt a img{width:116px;}
+
+
+.mid{width:880px;height:363px; float:left; position:relative;box-shadow:0 1px 10px rgba(0,0,0,0.8);}
+#roll_box {width:880px; height:322px; position:absolute;left:0;top:0; z-index:5;}
+#roll_box li {position:absolute;width:880px; height:322px;z-index:0;}
+#roll_box li.s{z-index:1000}
+
+#roll_box img {display:block; width:880px; height:322px; border:none;}
+.roll_navbox {width:880px;height:50px; position:absolute;left:0;top:313px; z-index:6;overflow:hidden;}
+#roll_nav {height:50px; width:1056px;}
+#roll_nav li {float:left; width:176px; height:50px;line-height:60px;color:#a98255;background:url(http://static.sdg-china.com/cq/pic/web4/guide/btn.png) no-repeat 50% bottom; cursor:pointer; overflow:hidden;font-size:14px;  text-align:center;}
+#roll_nav li.on {color:#d09f2c;background:url(http://static.sdg-china.com/cq/pic/web4/guide/btnC.png) no-repeat 50% bottom;}
+
+
+.mov{width:390px;height:363px; float:left; margin:0 0 0 10px;}
+
+.main_visual{height:363px;position:relative;box-shadow:0 1px 10px rgba(0,0,0,0.8);}
+.main_image{height:363px;overflow:hidden;position:relative;}
+.main_image ul{width:9999px;height:363px;overflow:hidden;position:absolute;top:0;left:0}
+.main_image li{width:390px;height:363px;float:left; position:relative;}
+.pic{width:390px;height:363px;float:left; position:relative;}
+.pic img{width:390px;height:363px;}
+
+
+
+
+
+.alertBox {width:690px; height:430px;position:fixed;_position:absolute;z-index:1000;display:none; top:50%; left:50%; margin:-300px 0 0 -345px;_top:expression(documentElement.scrollTop + 330 + "px")}
+.close {width:47px; height:46px;cursor:pointer; position:absolute;text-indent:-9999px;top:-47px; right:5px;background:url(http://static.sdg-china.com/cq/pic/web3/guide/s1_close.png) center top no-repeat;}
+.alertCon { position:relative;}
+.conCon{width:690px; height:430px; float:left;display:inline;background:url(http://static.sdg-china.com/cq/pic/web3/guide/loading.gif) center center no-repeat #000;}
+.conCon_load{width:690px; height:430px; line-height:620px; position:absolute;left:0;top:0; font-size:28px; color:#9d9d9d; text-align:center; z-index:2;}
+.conCon_con{width:690px; height:430px;position:absolute;left:0;top:0; z-index:3;}
+
+#dialog-overlay {width:100%;height:100%;filter:alpha(opacity=90);_filter:alpha(opacity=100);-moz-opacity:0.9;-khtml-opacity: 0.9;opacity: 0.9;position:fixed;_position:absolute;background:#000;top:0; left:0;z-index:100;display:none;}
+#dialog-overlay2 {width:100%;height:430px;filter:alpha(opacity=100);_filter:alpha(opacity=100);-moz-opacity:1;-khtml-opacity: 1;opacity: 1;position:fixed;_position:absolute;background:#000;top:300px; left:0;z-index:101;display:none;}
+
+
+
+
+.overlay{ width:992px;display:block; border:0px solid #000;}
+.overlay .close2{cursor: pointer; height:106px;width:106px; position: absolute;right:0;top:0; z-index:99;}
+.overlay .overlayCon{ color:#841400; padding:0;width:992px; height:680px; float:left;background:url(http://static.sdg-china.com/cq/pic/web3/guide2/tan_0624.png) center top no-repeat;}
+.overlay .overlayCon a{width:992px;height:570px;float:left; margin-top:110px; }
+.tt1{ overflow-y:hidden;}
+
+#overlay {
+	width:100%;
+	height:100%;
+	filter:alpha(opacity=80);
+	-moz-opacity:0.8;-khtml-opacity: 0.8;opacity: 0.8;
+	position:fixed;
+	background:#000;
+	top:0; left:0;
+	z-index:3000;
+	display:block;
+}
+.overlay{position:fixed;z-index:5000;display:block; top:100px; left:50%;margin:0 0 0 -490px;}
+*html,*html body {background-attachment:fixed;}
+
+
+
+
+
+#overlay_video{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: #000000;
+	opacity: .8;
+	z-index: 99;
+	display: none;
+}
+.video_box{
+	position:fixed;
+	left: 50%;top: 50%;
+	margin: -230px 0 0 -443px;
+	z-index: 100;
+	width: 886px;
+	height: 500px;
+	display: none;
+}
